@@ -1,4 +1,4 @@
-import {mount, describe, test, expect} from '@vue/test-utils'
+import {mount} from '@vue/test-utils'
 import GameColor from '../../src/components/games/ColorGame';
 
 describe('Game Color unit tests: ', () => {
